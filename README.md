@@ -95,7 +95,7 @@
             <!-- Add your profile picture here -->
             <img src="image\Aravind.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>ARAVIND KUMAR N</h1>
-            <p>FULL STOCK DEVELOPER</p>
+            <p>FULL STACK DEVELOPER</p>
         </div>
     </header>
 
@@ -112,7 +112,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>HELLO Everyone !  I am ARAVIND KUMAR.N  FULL STOCK DEVELOPER </p>
+            <p>HELLO Everyone !  I am ARAVIND KUMAR.N  FULL STACK DEVELOPER </p>
         </div>
     </section>
 
@@ -138,7 +138,7 @@
         <div class="section-content">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">FULLSTOCK</a></li>
+                <li><a href="#">FULLSTACK</a></li>
                 <li><a href="#">WEB DEVELOPER</a></li>
                 <!-- Add more project links here -->
             </ul>
